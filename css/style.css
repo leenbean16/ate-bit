@@ -17,3 +17,14 @@ img.logo {
     height: 150px;
     max-width: 100%;
 }
+
+a.tab {
+    color: #FFFFFF;
+    font-family: 'VT323', monospace;
+    font-size: 20px;
+}
+
+a.tab:hover {
+    color: limegreen;
+/*    font-weight: bold;
+*/}
