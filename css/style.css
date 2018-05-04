@@ -1,0 +1,19 @@
+body {
+    background: #000000;
+    color: #FFFFFF;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+    align-items: end;
+}
+
+p.subtitle {
+    color: #FFFFFF;
+}
+
+img.logo {
+    height: 150px;
+    max-width: 100%;
+}
