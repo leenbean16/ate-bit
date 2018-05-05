@@ -39,4 +39,5 @@ a.tab:hover {
 
 .tab-content {
 	padding: 25px;
+    font-family: 'VT323', monospace;
 }

@@ -3,6 +3,7 @@ $(".tab-content-two").hide();
 $(".tab-content-three").hide();
 
 $(".tab-one").on('click', _ => {
+	const tabOneContent = $("<div class='tab-content-a'></a>");
     $(".tab-content-one").show().addClass("animated").addClass("fadeIn");
     $(".tab-content-two").hide();
     $(".tab-content-three").hide();
