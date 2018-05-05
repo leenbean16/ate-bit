@@ -41,3 +41,7 @@ a.tab:hover {
 	padding: 25px;
     font-family: 'VT323', monospace;
 }
+
+.page-body {
+	height: 100vh;
+}
