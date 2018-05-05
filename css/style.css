@@ -79,6 +79,10 @@ svg.svg-inline--fa:hover {
 }
 
 .candy-pic {
-	width: 25%;
-	height: 25%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    border-radius: 4px;
+    height: 40%;
 }
