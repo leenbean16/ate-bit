@@ -20,3 +20,4 @@ $(".tab-three").on('click', _ => {
     $(".tab-content-two").hide();
     $(".tab-content-three").show().addClass("animated").addClass("fadeIn");
 })
+
