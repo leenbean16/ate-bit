@@ -45,3 +45,13 @@ a.tab:hover {
 .page-body {
 	height: 100vh;
 }
+
+p {
+	color: #000000;
+    font-family: 'VT323', monospace;
+    font-size: 20px;
+}
+
+.footer-credit {
+	font-size: 17px;
+}
