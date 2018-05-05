@@ -16,9 +16,11 @@ p.subtitle {
 }
 
 img.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     height: 150px;
     max-width: 100%;
-    margin-left: 43.5%;
 }
 
 .tabs {
@@ -39,7 +41,7 @@ a.tab:hover {
 }
 
 .tab-content {
-	padding: 25px;
+    padding: 25px;
     font-family: 'VT323', monospace;
     display: flex;
     flex-direction: column;
@@ -47,17 +49,17 @@ a.tab:hover {
 }
 
 .page-body {
-	height: 100vh;
+    height: 100vh;
 }
 
 p {
-	color: #000000;
+    color: #000000;
     font-family: 'VT323', monospace;
     font-size: 20px;
 }
 
 .footer-credit {
-	font-size: 17px;
+    font-size: 17px;
 }
 
 a.fa.fa-github {
