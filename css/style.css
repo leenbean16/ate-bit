@@ -36,3 +36,7 @@ a.tab:hover {
     /*    font-weight: bold;
 */
 }
+
+.tab-content {
+	padding: 25px;
+}
