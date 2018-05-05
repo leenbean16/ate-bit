@@ -18,6 +18,7 @@ p.subtitle {
 img.logo {
     height: 150px;
     max-width: 100%;
+    margin-left: 43.5%;
 }
 
 .tabs {
@@ -40,6 +41,9 @@ a.tab:hover {
 .tab-content {
 	padding: 25px;
     font-family: 'VT323', monospace;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
 .page-body {
@@ -72,4 +76,9 @@ svg.svg-inline--fa:hover {
 
 .mj {
     width: 17%;
+}
+
+.candy-pic {
+	width: 25%;
+	height: 25%;
 }
