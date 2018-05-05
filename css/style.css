@@ -1,4 +1,6 @@
-body {
+body {}
+
+.header {
     background: #000000;
     color: #FFFFFF;
 }
@@ -6,7 +8,7 @@ body {
 .flex-container {
     display: flex;
     flex-direction: row;
-    align-items: end;
+    align-items: center;
 }
 
 p.subtitle {
@@ -18,6 +20,11 @@ img.logo {
     max-width: 100%;
 }
 
+.tabs {
+    background: #000000;
+    width: 100vw;
+}
+
 a.tab {
     color: #FFFFFF;
     font-family: 'VT323', monospace;
@@ -26,5 +33,6 @@ a.tab {
 
 a.tab:hover {
     color: limegreen;
-/*    font-weight: bold;
-*/}
+    /*    font-weight: bold;
+*/
+}
