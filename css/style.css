@@ -84,7 +84,15 @@ svg.svg-inline--fa:hover {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    padding: 5px;
     width: 40%;
     border-radius: 4px;
     height: 40%;
+}
+
+.box {
+	border: 1px solid #FAFAFA;
+	background: #FAFAFA;
+	height: 200px;
+	padding: 5px;
 }
