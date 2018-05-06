@@ -95,4 +95,5 @@ svg.svg-inline--fa:hover {
 	background: #FAFAFA;
 	height: 200px;
 	padding: 5px;
+	box-shadow: none;
 }
