@@ -91,9 +91,33 @@ svg.svg-inline--fa:hover {
 }
 
 .box {
-	border: 1px solid #FAFAFA;
-	background: #FAFAFA;
-	height: 200px;
-	padding: 5px;
-	box-shadow: none;
+    border: 1px solid #FAFAFA;
+    background: #FAFAFA;
+    height: 200px;
+    padding: 5px;
+    box-shadow: none;
+}
+
+.ate-bit-insta {
+    background-attachment-size: fill;
+}
+
+.ate-bit-insta.pic-one {
+    background-image: url('../imgs/one.png') !important;
+}
+
+.ate-bit-insta.pic-two {
+    background-image: url('../imgs/two.png') !important;
+}
+
+.ate-bit-insta.pic-three {
+    background-image: url('../imgs/three.png') !important;
+}
+
+.ate-bit-insta.pic-four {
+    background-image: url('../imgs/four.png') !important;
+}
+
+.ate-bit-insta.pic-five {
+    background-image: url('../imgs/five.png') !important;
 }

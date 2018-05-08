@@ -1,0 +1,22 @@
+{
+  "name": "ate-bit",
+  "version": "1.0.0",
+  "description": "ate-bit edibles",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leenbean16/ate-bit.git"
+  },
+  "keywords": [
+    "8bit"
+  ],
+  "author": "lina shamoon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leenbean16/ate-bit/issues"
+  },
+  "homepage": "https://github.com/leenbean16/ate-bit#readme"
+}
